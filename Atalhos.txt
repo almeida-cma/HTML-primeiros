@@ -1,0 +1,15 @@
+Atalhos em Visual Studio Code
+ctrl + o = abrir arquvo
+alt + seta = mover linha
+alt + shift + seta = copiar linha
+ctrl + shift + k = apagar linha
+ctrl + d = procurar próxima ocorrência no código
+ctrl + s = salvar
+alt + mouse = selecionar e alterar parte do código 
+ctrl + espaço = sugestões
+ctrl + k e ctrl + o = abrir pasta
+ctrl + b = ocultar e mostrar folders
+ctrl + f = pesquisa no código
+ctrl + ; = adicionar comentários
+ctrl + tab = navegar entre os arquivos do repositório
+ctrl + g = acessar linha do código
